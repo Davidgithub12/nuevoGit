@@ -47,7 +47,7 @@
 	</script>
 </head>
 <body>
-	<h1 class="title title-success"> VN FACEBOOK</h1>
+	<h1 class="title title-success"> VN Book</h1>
 	<div class="container">
 
 	  <div class="row">
